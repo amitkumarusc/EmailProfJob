@@ -18,7 +18,7 @@ configparser==3.5.0
 cryptography==2.1.2
 cycler==0.10.0
 decorator==4.1.2
-Django==1.11.5
+Django==1.11.28
 docutils==0.13.1
 EasyProcess==0.2.3
 entrypoints==0.2.3
