@@ -81,7 +81,7 @@ python-engineio==1.7.0
 python-socketio==1.8.0
 pytz==2017.2
 PyVirtualDisplay==0.2.1
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.2
 qtconsole==4.3.1
 requests==2.18.4
